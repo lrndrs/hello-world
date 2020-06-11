@@ -1,2 +1,2 @@
 # hello-world
-try out git hub :)
+I try out git hub now..
